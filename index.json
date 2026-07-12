@@ -1,0 +1,258 @@
+{
+  "library": "Synth SciFi",
+  "description": "Sci-fi texture synth from freepats",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-scifi",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-scifi-previews",
+  "branch": "main",
+  "fileCount": 21,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/",
+  "files": [
+    {
+      "file": "A2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/A2.mp3",
+      "size": 109966,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/A3.mp3",
+      "size": 109966,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/A4.mp3",
+      "size": 109966,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/A5.mp3",
+      "size": 109966,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/A6.mp3",
+      "size": 109966,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/C2.mp3",
+      "size": 109966,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/C3.mp3",
+      "size": 109966,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/C4.mp3",
+      "size": 109966,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/C5.mp3",
+      "size": 109966,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/C6.mp3",
+      "size": 109966,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/C7.mp3",
+      "size": 109966,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Ds2.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Ds3.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Ds4.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Ds5.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Ds6.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Fs2.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Fs3.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Fs4.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Fs5.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-scifi-previews/main/Fs6.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.mp3"
+    ],
+    "45": [
+      "A2.mp3"
+    ],
+    "48": [
+      "C3.mp3"
+    ],
+    "57": [
+      "A3.mp3"
+    ],
+    "60": [
+      "C4.mp3"
+    ],
+    "69": [
+      "A4.mp3"
+    ],
+    "72": [
+      "C5.mp3"
+    ],
+    "81": [
+      "A5.mp3"
+    ],
+    "84": [
+      "C6.mp3"
+    ],
+    "93": [
+      "A6.mp3"
+    ],
+    "96": [
+      "C7.mp3"
+    ]
+  }
+}
